@@ -35,6 +35,7 @@ public abstract class AbstractEntity {
     @CreatedBy
     private String createdBy;
 
+
     @LastModifiedBy
     private String updatedBy;
 
